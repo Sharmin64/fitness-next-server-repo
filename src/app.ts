@@ -11,10 +11,7 @@ app.use(cors());
 
 // Basic route
 app.get("/", (req: Request, res: Response) => {
-  res.send("Hello, world!");
+  res.send("Fitness Shop is coming soon!");
 });
 
 export default app;
-
-// ?8-3 no module porjonto kaj kore raklam 8-4 te kaj kora baki
-// ?8-3 er half part kaj baki ache

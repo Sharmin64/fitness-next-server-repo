@@ -1,0 +1,99 @@
+[
+    {
+      "image": "https://example.com/dumbbell.jpg",
+      "trainerName": "John Doe",
+      "toolName": "Dumbbells",
+      "description": "A pair of adjustable dumbbells for strength training.",
+      "price": 50,
+      "benefits": ["Improves muscle tone", "Enhances strength", "Compact and versatile"]
+    },
+    {
+      "image": "https://example.com/treadmill.jpg",
+      "trainerName": "Jane Smith",
+      "toolName": "Treadmill",
+      "description": "Electric treadmill with customizable speed and incline settings.",
+      "price": 700,
+      "benefits": ["Improves cardiovascular health", "Supports weight loss", "Convenient indoor running"]
+    },
+    {
+      "image": "https://example.com/yoga-mat.jpg",
+      "trainerName": "Emily Brown",
+      "toolName": "Yoga Mat",
+      "description": "Non-slip yoga mat for comfortable stretching and exercises.",
+      "price": 25,
+      "benefits": ["Provides support", "Improves stability", "Easy to carry"]
+    },
+    {
+      "image": "https://example.com/resistance-band.jpg",
+      "trainerName": "David Lee",
+      "toolName": "Resistance Bands",
+      "description": "Set of resistance bands for a variety of strength training exercises.",
+      "price": 20,
+      "benefits": ["Enhances flexibility", "Portable", "Ideal for rehabilitation"]
+    },
+    {
+      "image": "https://example.com/rowing-machine.jpg",
+      "trainerName": "Michael Johnson",
+      "toolName": "Rowing Machine",
+      "description": "High-quality rowing machine for full-body cardio workouts.",
+      "price": 400,
+      "benefits": ["Improves stamina", "Low-impact exercise", "Strengthens back and arms"]
+    },
+    {
+      "image": "https://example.com/kettlebell.jpg",
+      "trainerName": "Sarah White",
+      "toolName": "Kettlebell",
+      "description": "Cast iron kettlebell for dynamic strength training.",
+      "price": 30,
+      "benefits": ["Improves grip strength", "Builds core stability", "Great for HIIT workouts"]
+    },
+    {
+      "image": "https://example.com/exercise-ball.jpg",
+      "trainerName": "Chris Green",
+      "toolName": "Exercise Ball",
+      "description": "Durable exercise ball for core workouts and stability training.",
+      "price": 15,
+      "benefits": ["Improves posture", "Enhances balance", "Strengthens core"]
+    },
+    {
+      "image": "https://example.com/bench-press.jpg",
+      "trainerName": "Laura Wilson",
+      "toolName": "Bench Press",
+      "description": "Adjustable bench press for weightlifting and upper body workouts.",
+      "price": 200,
+      "benefits": ["Builds chest strength", "Supports weightlifting", "Durable and adjustable"]
+    },
+    {
+      "image": "https://example.com/foam-roller.jpg",
+      "trainerName": "Mark Harris",
+      "toolName": "Foam Roller",
+      "description": "EVA foam roller for muscle recovery and stretching.",
+      "price": 10,
+      "benefits": ["Relieves muscle tension", "Increases flexibility", "Improves circulation"]
+    },
+    {
+      "image": "https://example.com/pullup-bar.jpg",
+      "trainerName": "Olivia Adams",
+      "toolName": "Pull-Up Bar",
+      "description": "Door-mounted pull-up bar for upper body exercises.",
+      "price": 35,
+      "benefits": ["Strengthens arms", "Improves grip", "Portable and easy to install"]
+    },
+    {
+      "image": "https://example.com/skipping-rope.jpg",
+      "trainerName": "Jacob King",
+      "toolName": "Skipping Rope",
+      "description": "Adjustable skipping rope for cardio and endurance training.",
+      "price": 12,
+      "benefits": ["Improves agility", "Burns calories", "Portable"]
+    },
+    {
+      "image": "https://example.com/smith-machine.jpg",
+      "trainerName": "Sophia Turner",
+      "toolName": "Smith Machine",
+      "description": "Multi-functional smith machine for guided weightlifting exercises.",
+      "price": 1200,
+      "benefits": ["Safe for beginners", "Guides weightlifting", "Supports a range of exercises"]
+    }
+  ]
+  
